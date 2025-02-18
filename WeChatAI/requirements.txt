@@ -1,0 +1,18 @@
+# 核心依赖
+wxauto==3.9.11.17
+transformers==4.36.2
+peft==0.8.2
+torch==2.1.0
+sqlalchemy==2.0.25
+
+# 辅助工具
+jieba==0.42.1
+safetensors==0.4.2
+loguru==0.7.2
+tqdm==4.66.1
+accelerate==0.26.1
+datasets==2.16.1
+huggingface_hub==0.20.2
+
+# 国内用户推荐使用的替代源（可选）
+# -i https://pypi.tuna.tsinghua.edu.cn/simple 
